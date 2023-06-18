@@ -31,6 +31,7 @@ const Shop = () => {
                     key= {product.id}
                     product = {product}
                     handleAddToCart = {handleAddToCart}
+                    
                     ></Product>)
                    
                 }
